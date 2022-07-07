@@ -1,5 +1,7 @@
 # emergencias
 
+## projeto para praticar vuex, gerenciamento de estado, 
+
 ## Project setup
 ```
 npm install
